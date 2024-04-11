@@ -24,4 +24,4 @@ Applications to the program open every April and they remain open for two weeks.
 ### Find more about the program on the [Girlscript website](https://gssoc.girlscript.tech/)!
 
 ## Other
-- Campus Experts [Code of Conduct](https://github.com/GSSoC24/.github/CODE_OF_CONDUCT.md) and enforcement guidelines
+- Campus Experts [Code of Conduct](https://github.com/GSSoC24/.github/blob/main/CODE_OF_CONDUCT.md) and enforcement guidelines
