@@ -18,7 +18,7 @@ Applications to the program open every April and they remain open for two weeks.
 
 ## Other Programs
 - We **support students to explore more options** on [📺 Girlscript Website](https://gssoc.girlscript.tech/).
-- Program Manager organize [GSSoC24](https://gssoc.girlscript.tech/), ** events for students to share and showcase the Projects** and collaborate in future events.
+- Program Manager organize [GSSoC24](https://gssoc.girlscript.tech/), ***events for students to share and showcase the Projects*** and collaborate in future events.
 - Learn about future events, find content from other students, and reach your local expert on [Girlscript LinkedIn](https://www.linkedin.com/company/girlscriptsoc).
 
 ### Find more about the program on the [Girlscript website](https://gssoc.girlscript.tech/)!
